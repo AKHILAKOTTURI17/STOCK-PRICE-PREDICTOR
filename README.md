@@ -1,5 +1,6 @@
 STOCK-PRICE-PREDICTOR
 
+
 Stock price predictor using LSTM networks
 
 This project implements a stock price prediction model using Long Short-Term Memory (LSTM) networks. The model is trained using historical stock data and can be used to predict future stock prices.
